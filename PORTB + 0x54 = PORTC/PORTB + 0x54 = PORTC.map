@@ -1,0 +1,35 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Thu Sep 30 22:36:07 2021
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x00001a
+.config_2007_PORTB + 0X54 = PORTC.O       code   0x002007    program   0x000002
+.config_2008_PORTB + 0X54 = PORTC.O       code   0x002008    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00000c      
+                            0x002007    0x002008      
+            15 out of 8455 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   REPITE   0x000009    program     static C:\Users\Carvajal Muñiz\Documents\Marco\PIC\PIC16F887\Ensamblador\PORTB + 0x54 = PORTC\PORTB + 0x54 = PORTC.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   REPITE   0x000009    program     static C:\Users\Carvajal Muñiz\Documents\Marco\PIC\PIC16F887\Ensamblador\PORTB + 0x54 = PORTC\PORTB + 0x54 = PORTC.asm
+
+
